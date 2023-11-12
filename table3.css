@@ -1,0 +1,70 @@
+
+
+.outline {
+    width: 40%;
+    text-align: center;
+    background-color: orange;
+    border-radius: 25px;
+    margin: 20px auto;
+    padding: 4px;
+}
+
+h1 {
+    font-size: 30px;
+    color: white;
+}
+
+
+table, tr, th {
+    border-collapse: collapse;
+    font-size: 20px;
+    text-align: center;
+}
+
+table {
+    width: 60%;
+    margin: 0 auto;
+    
+}
+
+
+
+th, td {
+    border-left: 1px solid lightgray;
+}
+
+th {
+    background-color: blue;
+    color: white;
+}
+
+td {
+    text-align: left;
+    /* border:   2px solid; */
+    border-color: lightgray;
+    border-collapse: collapse;
+    font-size: 18px;
+    text-align: left;
+}
+
+td, th {
+    padding: 12px;
+    
+}
+
+.pass .fail {
+    width: 100%;
+    border: solid 4px black;
+    text-align: center;
+}
+
+tr {
+    border: 1px solid lightgray;
+}
+
+/* tr:nth-child(even) {
+    background-color: lightgrey;
+}
+     */
+    
+        
